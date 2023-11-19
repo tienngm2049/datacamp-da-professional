@@ -1,5 +1,8 @@
 # Project: DataCamp Data Analyst Professional Certificate
 
+![certificate](https://github.com/tienngm2049/datacamp-da-professional/assets/131929681/da5c8fb7-9098-4fd3-a448-4ae95217077d)
+
+
 ## Description
 This project focuses on evaluating the effectiveness of three different sales strategies implemented by Pens and Printers, a company founded in 1984, over the past six weeks for a new line of office stationery.
 
