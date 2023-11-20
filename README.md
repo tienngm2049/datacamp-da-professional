@@ -26,11 +26,15 @@ The primary objective of the project is to determine the most effective sales st
 ### Technical Skills
 - **Python Libraries:** Pandas, Numpy, Matplotlib, Seaborn
 - **Data Manipulation:** Utilized Pandas and Numpy for data manipulation and analysis.
-- **Data Visualization:** Employed Matplotlib and Seaborn to create visual representations of the findings.
+- **Data Visualization:** Employed Matplotlib and Seaborn to create visual representations of the findings
 ### Non-technical Skills
 - **Problem-solving:** Applied problem-solving skills to address challenges encountered during the analysis.
 - **Presentation:** Developed a comprehensive presentation (presented in presentation.pdf) to communicate analysis results effectively.
 - **Communication (English):** Effectively communicated findings in English, demonstrating strong language proficiency.
+
+## Final Dashboard
+
+![dashboard](/dashboard/dashboard_product_sales.png)
 
 ## Certificate 
 After conducting the analysis and presenting to DataCamp, I have earned the title of Data Analyst Professional. Typically, acquiring these skills can take candidates 100+ hours over time.
