@@ -8,11 +8,13 @@ This project focuses on evaluating the effectiveness of three different sales st
 
 ## Files
 
-1. `task.pdf`: This document outlines the tasks assigned for the project, providing context to the goals and objectives.
-2. `presentation.pdf`: The report detailing the analysis and findings of the project.
-3. `notebook.ipynb`: Jupyter Notebook containing the code and step-by-step analysis conducted during the project.
-4. `product_sales.csv`: The dataset used for the analysis.
-5. `certificate.pdf`: [Link to my Data Analyst Professional Certificate](https://www.datacamp.com/certificate/DA0028611120864).
+1. `README.md`: This file, introducing my project.
+2. `task.pdf`: This document outlines the tasks assigned for the project, providing context to the goals and objectives.
+3. `presentation_slides.pdf`: The report detailing the analysis and findings of the project.
+4. `notebook.ipynb`: Jupyter Notebook containing the code and step-by-step analysis conducted during the project.
+5. `product_sales.csv`: The dataset used for the analysis.
+6. `certificate.pdf`: [Link to my Data Analyst Professional Certificate](https://www.datacamp.com/certificate/DA0028611120864).
+7. `dashboard`: This directory has 3 files: `cleaned_product_sales.csv`, `dashboard_product_sales.png` and `dashboard_product_sales.pbix` including my dashboard for analysis.
 
 ## About Pens and Printers
 Pens and Printers, established in 1984, is a trusted provider of high-quality office products exclusively sourced from other companies. Their product range includes items such as pens, notebooks, desk chairs, and monitors.
